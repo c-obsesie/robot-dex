@@ -1,5 +1,6 @@
 ### React Project
 
+![Preview](https://github.com/c-obsesie/robot-dex/blob/gh-pages/RoboDex.png)
 ------------
 
 
